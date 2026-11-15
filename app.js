@@ -11,6 +11,16 @@ const catalog = [
   { title: "Água-viva", category: "Invertebrados", color: "#8d72b4" },
   { title: "Golfinho", category: "Mamíferos", color: "#448caf" },
   { title: "Pinguim-imperador", category: "Aves", color: "#37546a" },
+  { title: "Tubarão-branco", category: "Peixes", color: "#4a7c8e" },
+  { title: "Narval", category: "Mamíferos", color: "#5b7fa6" },
+  { title: "Lula-gigante", category: "Invertebrados", color: "#7a5c8c" },
+  { title: "Arraia", category: "Peixes", color: "#6b8e7a" },
+  { title: "Foca-leopardo", category: "Mamíferos", color: "#5a7a8a" },
+  { title: "Coral", category: "Invertebrados", color: "#c0614a" },
+  { title: "Peixe-palhaço", category: "Peixes", color: "#d4753a" },
+  { title: "Dugongo", category: "Mamíferos", color: "#6b9e8c" },
+  { title: "Albatrozes", category: "Aves", color: "#7a8fa0" },
+  { title: "Pepino-do-mar", category: "Invertebrados", color: "#8c6b4a" },
 ];
 
 const state = { animals: [], search: "", category: "Todos", loading: false };
